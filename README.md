@@ -1,9 +1,6 @@
 # KARMO
-KARMO Mechanical Properties of Rock Joints
-==========================================
-
 Mechanical Properties of Rock Joints (KARMO I)			28.2.2015
-----------------------------------------------------------
+==========================================================
 Lauri Uotinen, Aalto University, Department of Civil and Environmental Engineering
 
 KARMO I research project was conducted during the last year of the KYT2014 research programme. It functioned as a preparatory pilot research for the later KARMO II (2015-2016) and KARMO III (2017-2018) research projects. The KARMO research continuum aims to develop a method to determine the mechanical properties of rock joints for numerical modelling purposes using laboratory scale replica series. KARMO I (2014) research project aimed to develop the photogrammetric method to record the rock join geometry, to digitize the rock joint into a printable mold, to print the molds and cast the concrete surface replicas and test the replicas and derive from the results how the components of the shear strength change with scale.
