@@ -1,5 +1,5 @@
 # KARMO
-Mechanical Properties of Rock Joints (KARMO I)			28.2.2015
+Mechanical Properties of Rock Joints
 ==========================================================
 Lauri Uotinen, Aalto University, Department of Civil and Environmental Engineering
 
